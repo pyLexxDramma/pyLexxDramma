@@ -116,6 +116,10 @@
   
 ---
 
+Посмотреть мои проекты и работы можно на  [![GitHub Pages](https://img.shields.io/badge/My%20Portfolio-blue)](https://github.com/pyLexxDramma/portfolio/blob/main/README.md)
+
+---
+
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyLexxDramma&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

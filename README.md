@@ -1,9 +1,17 @@
 <div id="header" align="center">  
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9kYzA0bG11MDVyZnMzNnNsZ2JnMTVjOWdhY2o1bHZmMWY0anZpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="100"/>
 </div>
+<div id="badges" align="center">
+  <a href="https://t.me/@LexxDramma">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:lexxdramma@vk.com">
+    <img src="https://img.shields.io/badge/Mail.com-brown?style=for-the-badge&logo=mail.com&logoColor=yellow" alt="Mail Badge"/>
+  </a>
+</div>
 
 <div id="badges" align="center">
- <img src="https://komarev.com/ghpvc/?username=pyLexxDramma&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=pyLexxDramma&style=flat-square&color=red" alt=""/>
   <h1>
   Let's code together! 	🖥️
 </h1>

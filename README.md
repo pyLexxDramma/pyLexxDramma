@@ -130,11 +130,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
   
----
 
-Посмотреть мои проекты и работы можно на  [![GitHub Pages](https://img.shields.io/badge/My%20Portfolio-blue)](https://github.com/pyLexxDramma/portfolio/blob/main/README.md)
-
----
 
 ---
 

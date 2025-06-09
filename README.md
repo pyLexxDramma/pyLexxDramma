@@ -114,6 +114,9 @@ Python-разработчик
 - [Валидатор XML со встроенным редактором XSD схем](https://github.com/pyLexxDramma/xml-validator-redactor) - Веб-интерфейс для проверки XML-файлов на соответствие XSD схемам с возможностью редактирования XMD и XML.
 - [Phonebook Processor](https://github.com/pyLexxDramma/netology/tree/main/regexp/regexp_full) - Обработка и преобразование данных телефонного справочника.
 ---
+# Учебные работы:
+[Netology](https://github.com/pyLexxDramma/netology/blob/main/README.md)
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -176,8 +179,7 @@ Python-разработчик
 
 ---
 
-Посмотреть мои проекты и работы можно на  [![GitHub Pages](https://img.shields.io/badge/My%20Portfolio-blue)](https://github.com/pyLexxDramma/portfolio/blob/main/README.md)
----
+
 ## Мои сертификаты:
 
 - [ООП и  работа с API](https://disk.yandex.ru/i/wInXQg1hmin7gA)

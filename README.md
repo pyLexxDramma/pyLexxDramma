@@ -115,7 +115,7 @@ Python-разработчик
 - [Phonebook Processor](https://github.com/pyLexxDramma/netology/tree/main/regexp/regexp_full) - Обработка и преобразование данных телефонного справочника.
 ---
 - *Учебные работы:*
-[Netology](https://github.com/pyLexxDramma/netology/blob/main/README.md) - Домашние, куровые, дипломные работы.
+[Netology](https://github.com/pyLexxDramma/netology/blob/main/README.md) - Домашние, курсовые, дипломные работы.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

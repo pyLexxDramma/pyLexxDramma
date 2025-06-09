@@ -141,8 +141,16 @@
 Посмотреть мои проекты и работы можно на  [![GitHub Pages](https://img.shields.io/badge/My%20Portfolio-blue)](https://github.com/pyLexxDramma/portfolio/blob/main/README.md)
 ---
 ## Мои сертификаты:
-[ООП и  работа с API](https://disk.yandex.ru/i/wInXQg1hmin7gA)
 
+- [ООП и  работа с API](https://disk.yandex.ru/i/wInXQg1hmin7gA)
+
+- [GIT-система контроля версий](https://disk.yandex.ru/i/JSyJFiodtPLiRw)
+
+- [Профессиональная работа с Python](https://disk.yandex.ru/i/6KuZsHvSDwe-sA)
+
+- [Базы  данных для Python разработчиков](https://disk.yandex.ru/i/Tc7Up8tAWo3AdA)
+
+- [Django:Создание backend приложений](https://disk.yandex.ru/i/1jYzUNHfFUH7JQ)
 ---
 
 ### :fire: My Stats :

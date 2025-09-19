@@ -115,8 +115,9 @@ Python-разработчик
 - [Phonebook Processor](https://github.com/pyLexxDramma/netology/tree/main/regexp/regexp_full) - Обработка и преобразование данных телефонного справочника.
 - [Бот-обучалка английскому языку](https://github.com/pyLexxDramma/English_Teacher_Bot) - Этот бот помогает изучать английский язык с помощью карточек слов.
 - [Сервис знакомств](https://github.com/pyLexxDramma/Team_project) - Командный проект чат-бота VKTinder.
-- 
---[UserHub]-(https://github.com/pyLexxDramma/UserHub) - Простое веб-приложение на Flask с SQLite и фронтендом на ванильном JavaScript с Bootstrap.
+- [UserHub]-(https://github.com/pyLexxDramma/UserHub) - Простое веб-приложение на Flask с SQLite и фронтендом на ванильном JavaScript с Bootstrap.
+
+  
 - *Учебные работы:*
 [Netology](https://github.com/pyLexxDramma/netology/blob/main/README.md) - Домашние, курсовые, дипломные работы.
 ---

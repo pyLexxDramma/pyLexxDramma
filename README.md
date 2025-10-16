@@ -117,6 +117,9 @@ Python-разработчик
 - [Сервис знакомств](https://github.com/pyLexxDramma/Team_project) - Командный проект чат-бота VKTinder.
 - [UserHub](https://github.com/pyLexxDramma/UserHub) - Простое веб-приложение на Flask с SQLite и фронтендом на ванильном JavaScript с Bootstrap.
 - [REST API для каталога товаров](https://github.com/pyLexxDramma/vne_ecommerce) -  Базовый backend для интернет-магазина. Фронтенд на Next.js забирает данные по API.
+- [Technical_documentation](https://github.com/pyLexxDramma/Technical_documentation) - Создание технической документации для модулей проекта.
+
+---
   
 - *Учебные работы:*
 [Netology](https://github.com/pyLexxDramma/netology/blob/main/README.md) - Домашние, курсовые, дипломные работы.

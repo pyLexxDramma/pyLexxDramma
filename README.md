@@ -202,7 +202,7 @@ Python-разработчик
 
 - [Python в веб-разработке](https://disk.yandex.ru/i/0K5u5G-h7XXcrw)
 
-- [Свидетельство об оббучении по купсу "Python-разработчик"](https://disk.yandex.ru/i/ly9LkHkF5ua0kg)
+- [Свидетельство о завершении обучения по курсу "Python-разработчик"](https://disk.yandex.ru/i/ly9LkHkF5ua0kg)
 ---
 
 ### :fire: My Stats :

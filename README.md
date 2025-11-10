@@ -118,6 +118,7 @@ Python-разработчик
 - [UserHub](https://github.com/pyLexxDramma/UserHub) - Простое веб-приложение на Flask с SQLite и фронтендом на ванильном JavaScript с Bootstrap.
 - [REST API для каталога товаров](https://github.com/pyLexxDramma/vne_ecommerce) -  Базовый backend для интернет-магазина. Фронтенд на Next.js забирает данные по API.
 - [Technical_documentation](https://github.com/pyLexxDramma/Technical_documentation) - Создание технической документации для модулей проекта.
+- [Backend решение для автоматизации закупочного процесса](https://github.com/pyLexxDramma/my_ordering_service)
 
 ---
   
@@ -200,6 +201,8 @@ Python-разработчик
 - [Django:Создание backend приложений](https://disk.yandex.ru/i/1jYzUNHfFUH7JQ)
 
 - [Python в веб-разработке](https://disk.yandex.ru/i/0K5u5G-h7XXcrw)
+
+- [Свидетельство об оббучении по купсу "Python-разработчик"](https://disk.yandex.ru/i/ly9LkHkF5ua0kg)
 ---
 
 ### :fire: My Stats :

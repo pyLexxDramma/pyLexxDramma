@@ -119,6 +119,7 @@ Python-разработчик
 - [REST API для каталога товаров](https://github.com/pyLexxDramma/vne_ecommerce) -  Базовый backend для интернет-магазина. Фронтенд на Next.js забирает данные по API.
 - [Technical_documentation](https://github.com/pyLexxDramma/Technical_documentation) - Создание технической документации для модулей проекта.
 - [Backend решение для автоматизации закупочного процесса](https://github.com/pyLexxDramma/my_ordering_service)
+- [Парсер для Yandex.Maps и 2GIS](https://github.com/pyLexxDramma/unified_parser_v2)
 
 ---
   

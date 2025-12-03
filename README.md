@@ -212,10 +212,7 @@ Python Backend Developer with Full-Stack Skills 🎯
 - [Свидетельство о завершении обучения по курсу "Python-разработчик"](https://disk.yandex.ru/i/ly9LkHkF5ua0kg)
 ---
 
-### :fire: My Stats :
 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyLexxDramma&layout=pie&theme=highcontrast&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 

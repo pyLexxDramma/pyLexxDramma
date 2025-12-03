@@ -118,8 +118,8 @@ Python-разработчик
 - [UserHub](https://github.com/pyLexxDramma/UserHub) - Простое веб-приложение на Flask с SQLite и фронтендом на ванильном JavaScript с Bootstrap.
 - [REST API для каталога товаров](https://github.com/pyLexxDramma/vne_ecommerce) -  Базовый backend для интернет-магазина. Фронтенд на Next.js забирает данные по API.
 - [Technical_documentation](https://github.com/pyLexxDramma/Technical_documentation) - Создание технической документации для модулей проекта.
-- [Backend решение для автоматизации закупочного процесса](https://github.com/pyLexxDramma/my_ordering_service)
-- [Парсер для Yandex.Maps и 2GIS](https://github.com/pyLexxDramma/unified_parser_v2)
+- [Backend решение для автоматизации закупочного процесса](https://github.com/pyLexxDramma/my_ordering_service) -Проект представляет собой backend решение для автоматизации закупочного процесса в рамках курса «Python-разработчик: расширенный курс».
+- [Парсер для Yandex.Maps и 2GIS](https://github.com/pyLexxDramma/unified_parser_v2) - Парсер для одновременного сбора данных с Yandex.Maps и 2GIS с веб-интерфейсом и генерацией отчетов.
 
 ---
   

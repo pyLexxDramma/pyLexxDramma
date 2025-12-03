@@ -35,6 +35,12 @@ Python-разработчик
 ---
 ### Основные навыки:
 
+## Full Stack Development 🛠️🚀:
+* Frontend: HTML/CSS, JavaScript (React.js, Vue.js)
+* Backend: Python (Django, Flask), Node.js
+* Databases: MongoDB, Redis, Elasticsearch
+* Deployment: AWS, Google Cloud Platform, Heroku
+
 ## Git & GitHub 🚀:
 * Управление версиями кода 🕹️
 * Совместная разработка 🤝

@@ -5,7 +5,7 @@
   <a href="https://t.me/LexxDramma">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:lexxdramma@vk.com">
+  <a href="mailto:oeallexxy@mail.ru">
     <img src="https://img.shields.io/badge/Mail.com-brown?style=for-the-badge&logo=mail.com&logoColor=yellow" alt="Mail Badge"/>
   </a>
 </div>

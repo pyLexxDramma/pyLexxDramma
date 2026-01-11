@@ -1,4 +1,4 @@
-# Алексей Темников - Fullstack Python Developer 🎯
+# Алексей - Fullstack Python Developer 🎯
 
 
 

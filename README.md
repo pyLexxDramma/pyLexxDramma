@@ -4,12 +4,7 @@
 
 **Fullstack Python Developer с опытом разработки веб-приложений, API и десктопных решений**
 
-[![GitHub](https://img.shields.io/badge/GitHub-pyLexxDramma-181717?style=for-the-badge&logo=github)](https://github.com/pyLexxDramma)
-[![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 
-</div>
 
 ---
 

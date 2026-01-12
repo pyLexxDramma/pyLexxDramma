@@ -8,30 +8,22 @@
 
 ### 🌐 Связь и контакты
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px; flex-wrap: wrap; margin: 30px 0;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; margin: 30px 0;">
   
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-    <a href="https://t.me/LexxDramma" style="text-decoration: none !important; display: inline-block; border: none; outline: none;">
-      <button style="padding: 18px 45px; background: linear-gradient(135deg, #0088cc 0%, #0066aa 100%); border-radius: 25px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 18px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 10px 30px rgba(0, 136, 204, 0.8), inset 0 1px 0 rgba(255, 255, 255, 0.3); border: 4px solid #00D4FF; cursor: pointer; min-width: 220px; transition: transform 0.2s ease, box-shadow 0.2s ease;">
-        💬 СВЯЗАТЬСЯ
-      </button>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <span style="font-size: 14px; color: #8b949e; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-weight: bold;">СВЯЗАТЬСЯ</span>
+    <a href="https://t.me/LexxDramma" style="text-decoration: none !important; display: inline-block;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-plain.svg" alt="Telegram" width="50" height="50" style="cursor: pointer; transition: transform 0.2s ease;" />
     </a>
-    <div style="display: flex; align-items: center; gap: 8px; margin-top: 5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-plain.svg" alt="Telegram" width="24" height="24" />
-      <span style="font-size: 12px; color: #8b949e; font-family: 'Courier New', 'Monaco', 'Consolas', monospace;">Telegram</span>
-    </div>
+    <span style="font-size: 11px; color: #8b949e; font-family: 'Courier New', 'Monaco', 'Consolas', monospace;">Telegram</span>
   </div>
   
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-    <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none !important; display: inline-block; border: none; outline: none;">
-      <button style="padding: 18px 45px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 18px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.8), inset 0 1px 0 rgba(255, 255, 255, 0.3); border: 4px solid #A78BFA; cursor: pointer; min-width: 220px; transition: transform 0.2s ease, box-shadow 0.2s ease;">
-        🌐 УЗНАТЬ ОБО МНЕ
-      </button>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <span style="font-size: 14px; color: #8b949e; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-weight: bold;">УЗНАТЬ ОБО МНЕ</span>
+    <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none !important; display: inline-block;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Портфолио" width="50" height="50" style="cursor: pointer; transition: transform 0.2s ease;" />
     </a>
-    <div style="display: flex; align-items: center; gap: 8px; margin-top: 5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Портфолио" width="24" height="24" />
-      <span style="font-size: 12px; color: #8b949e; font-family: 'Courier New', 'Monaco', 'Consolas', monospace;">Портфолио</span>
-    </div>
+    <span style="font-size: 11px; color: #8b949e; font-family: 'Courier New', 'Monaco', 'Consolas', monospace;">Портфолио</span>
   </div>
   
 </div>

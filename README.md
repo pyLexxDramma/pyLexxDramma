@@ -13,18 +13,39 @@
   <div style="margin-bottom: 20px;">
     <p style="font-size: 14px; color: #8b949e; margin-bottom: 12px;">💬 <strong>Для связи:</strong></p>
     <a href="https://t.me/LexxDramma" style="text-decoration: none; display: inline-block; margin: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-plain.svg" alt="Telegram" width="50" height="50" />
+      <div style="padding: 14px 28px; background: linear-gradient(135deg, #0088cc 0%, #0066aa 100%); border-radius: 8px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 16px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 4px 15px rgba(0, 136, 204, 0.6); border: 2px solid rgba(255, 255, 255, 0.4); animation: pulse 2s ease-in-out infinite;">
+        💬 TELEGRAM
+      </div>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:lexxdramma@vk.com" style="text-decoration: none; display: inline-block; margin: 8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Email" width="50" height="50" style="animation: pulse 2s ease-in-out infinite;" />
     </a>
   </div>
   
   <div>
     <p style="font-size: 14px; color: #8b949e; margin-bottom: 12px;">🌐 <strong>Чтобы подробнее узнать обо мне:</strong></p>
     <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none; display: inline-block; margin: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Портфолио" width="50" height="50" style="filter: brightness(1.2);" />
+      <div style="padding: 14px 28px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 16px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.6); border: 2px solid rgba(255, 255, 255, 0.4); animation: pulse 2s ease-in-out infinite;">
+        🌐 ПОРТФОЛИО
+      </div>
     </a>
   </div>
   
 </div>
+
+<style>
+  @keyframes pulse {
+    0%, 100% {
+      transform: scale(1);
+      opacity: 1;
+    }
+    50% {
+      transform: scale(1.05);
+      opacity: 0.9;
+    }
+  }
+</style>
 
 ---
 

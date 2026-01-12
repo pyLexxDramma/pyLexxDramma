@@ -8,25 +8,19 @@
 
 ### 🌐 Связь и контакты
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 25px; flex-wrap: wrap; margin: 30px 0;">
   
-  <div style="margin-bottom: 30px;">
-    <p style="font-size: 16px; color: #8b949e; margin-bottom: 20px;">💬 <strong>Для связи:</strong></p>
-    <a href="https://t.me/LexxDramma" style="text-decoration: none !important; display: inline-block; border: none; outline: none;">
-      <button style="padding: 18px 45px; background: linear-gradient(135deg, #0088cc 0%, #0066aa 100%); border-radius: 25px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 18px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 10px 30px rgba(0, 136, 204, 0.8), inset 0 1px 0 rgba(255, 255, 255, 0.3); border: none; cursor: pointer; min-width: 220px; transition: transform 0.2s ease, box-shadow 0.2s ease;">
-        💬 TELEGRAM
-      </button>
-    </a>
-  </div>
+  <a href="https://t.me/LexxDramma" style="text-decoration: none !important; display: inline-block; border: none; outline: none;">
+    <button style="padding: 18px 45px; background: linear-gradient(135deg, #0088cc 0%, #0066aa 100%); border-radius: 25px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 18px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 10px 30px rgba(0, 136, 204, 0.8), inset 0 1px 0 rgba(255, 255, 255, 0.3); border: 4px solid #00D4FF; cursor: pointer; min-width: 220px; transition: transform 0.2s ease, box-shadow 0.2s ease;">
+      💬 СВЯЗАТЬСЯ
+    </button>
+  </a>
   
-  <div>
-    <p style="font-size: 16px; color: #8b949e; margin-bottom: 20px;">🌐 <strong>Чтобы подробнее узнать обо мне:</strong></p>
-    <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none !important; display: inline-block; border: none; outline: none;">
-      <button style="padding: 18px 45px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 18px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.8), inset 0 1px 0 rgba(255, 255, 255, 0.3); border: none; cursor: pointer; min-width: 220px; transition: transform 0.2s ease, box-shadow 0.2s ease;">
-        🌐 ПОРТФОЛИО
-      </button>
-    </a>
-  </div>
+  <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none !important; display: inline-block; border: none; outline: none;">
+    <button style="padding: 18px 45px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 18px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.8), inset 0 1px 0 rgba(255, 255, 255, 0.3); border: 4px solid #A78BFA; cursor: pointer; min-width: 220px; transition: transform 0.2s ease, box-shadow 0.2s ease;">
+      🌐 УЗНАТЬ ОБО МНЕ
+    </button>
+  </a>
   
 </div>
 

@@ -11,23 +11,11 @@
 <div align="center">
   
   <a href="https://pylexxdramma.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Портфолио-667eea?style=for-the-badge&logo=globe&logoColor=white&labelColor=4a5568" alt="Портфолио" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&width=220&lines=🌐+Портфолио" alt="Портфолио" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/LexxDramma">
-    <img src="https://img.shields.io/badge/💬_Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0088cc" alt="Telegram" />
-  </a>
-  
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  
-  <a href="https://github.com/pyLexxDramma">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:lexxdramma@vk.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=0088CC&center=true&vCenter=true&width=220&lines=💬+Telegram" alt="Telegram" />
   </a>
   
 </div>

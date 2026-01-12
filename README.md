@@ -20,7 +20,7 @@
   <div>
     <p style="font-size: 14px; color: #8b949e; margin-bottom: 12px;">🌐 <strong>Чтобы подробнее узнать обо мне:</strong></p>
     <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none; display: inline-block; margin: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Портфолио" width="50" height="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Портфолио" width="50" height="50" style="filter: brightness(1.2);" />
     </a>
   </div>
   

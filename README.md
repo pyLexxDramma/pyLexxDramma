@@ -8,6 +8,7 @@
 
 ### 🌐 Связь и контакты
 
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -52,6 +53,19 @@
     </div>
 </body>
 </html>
+=======
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 180px; flex-wrap: wrap; margin: 40px 0;">
+  
+  <a href="https://t.me/LexxDramma" style="text-decoration: none !important; display: inline-block; padding: 10px 24px; background: #21262d; border-radius: 6px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500; color: #ffffff; text-align: center; border: 1px solid #30363d; cursor: pointer; min-width: 180px;">
+    Telegram
+  </a>
+  
+  <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none !important; display: inline-block; padding: 10px 24px; background: #21262d; border-radius: 6px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500; color: #ffffff; text-align: center; border: 1px solid #30363d; cursor: pointer; min-width: 180px;">
+    Portfolio
+  </a>
+  
+</div>
+>>>>>>> 1fb8c5d (Fix buttons - use links with button styles instead of button tags)
 
 ---
 

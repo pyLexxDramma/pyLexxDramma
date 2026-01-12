@@ -97,17 +97,7 @@ Telegram-бот для изучения английского языка с с�
 **Технологии:** React, JavaScript, API Integration  
 **GitHub:** [HackerNewsReact](https://github.com/pyLexxDramma/HackerNewsReact)
 
----
 
-## 📊 GitHub статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyLexxDramma&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyLexxDramma&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pyLexxDramma&theme=radical&hide_border=true&background=0D1117)
-
----
 
 ## 🎓 Образование и сертификаты
 

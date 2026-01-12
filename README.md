@@ -3,7 +3,27 @@
 **Fullstack Python Developer** | Python, Django, FastAPI, React, PostgreSQL | Веб-разработка, Backend, Frontend, DevOps | Опыт разработки production-ready приложений
 
 📍 Россия | 💼 Открыт к предложениям | 📧 lexxdramma@vk.com  
-🌐 [Портфолио](https://pylexxdramma.github.io/portfolio/) | 💬 [Telegram](https://t.me/LexxDramma)
+
+<div align="center">
+  
+  <a href="https://pylexxdramma.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Портфолио-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea" alt="Портфолио" />
+  </a>
+  <a href="https://t.me/LexxDramma">
+    <img src="https://img.shields.io/badge/💬_Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0088cc" alt="Telegram" />
+  </a>
+  
+</div>
+
+<div align="center">
+  
+  <!-- GitHub Stats -->
+  <a href="https://github.com/pyLexxDramma">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pyLexxDramma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyLexxDramma&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
+  
+</div>
 
 ---
 

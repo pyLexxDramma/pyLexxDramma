@@ -10,15 +10,26 @@
 
 <div align="center">
   
-  <a href="https://pylexxdramma.github.io/portfolio/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&width=220&lines=🌐+Портфолио" alt="Портфолио" />
+  <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none;">
+    <div style="display: inline-block; padding: 12px 24px; margin: 8px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 16px; font-weight: bold; color: white; text-align: center; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); animation: blink 2s infinite;">
+      🌐 ПОРТФОЛИО
+    </div>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/LexxDramma">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=0088CC&center=true&vCenter=true&width=220&lines=💬+Telegram" alt="Telegram" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/LexxDramma" style="text-decoration: none;">
+    <div style="display: inline-block; padding: 12px 24px; margin: 8px; background: linear-gradient(135deg, #0088cc 0%, #0066aa 100%); border-radius: 8px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 16px; font-weight: bold; color: white; text-align: center; box-shadow: 0 4px 15px rgba(0, 136, 204, 0.4); animation: blink 2s infinite;">
+      💬 TELEGRAM
+    </div>
   </a>
   
 </div>
+
+<style>
+  @keyframes blink {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.7; transform: scale(0.98); }
+  }
+</style>
 
 ---
 

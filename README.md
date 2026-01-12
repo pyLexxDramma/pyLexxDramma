@@ -8,23 +8,15 @@
 
 ### 🌐 Связь и контакты
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; margin: 30px 0;">
+<div align="center" style="margin: 30px 0;">
   
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
-    <span style="font-size: 14px; color: #8b949e; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-weight: bold;">СВЯЗАТЬСЯ</span>
-    <a href="https://t.me/LexxDramma" style="text-decoration: none !important; display: inline-block;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-plain.svg" alt="Telegram" width="50" height="50" style="cursor: pointer; transition: transform 0.2s ease;" />
-    </a>
-    <span style="font-size: 11px; color: #8b949e; font-family: 'Courier New', 'Monaco', 'Consolas', monospace;">Telegram</span>
-  </div>
+  <a href="https://t.me/LexxDramma" style="text-decoration: none !important; color: #58a6ff; font-size: 20px; font-weight: 600; margin: 0 30px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; transition: color 0.2s ease;">
+    💬 Связаться
+  </a>
   
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
-    <span style="font-size: 14px; color: #8b949e; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-weight: bold;">УЗНАТЬ ОБО МНЕ</span>
-    <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none !important; display: inline-block;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Портфолио" width="50" height="50" style="cursor: pointer; transition: transform 0.2s ease;" />
-    </a>
-    <span style="font-size: 11px; color: #8b949e; font-family: 'Courier New', 'Monaco', 'Consolas', monospace;">Портфолио</span>
-  </div>
+  <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none !important; color: #58a6ff; font-size: 20px; font-weight: 600; margin: 0 30px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; transition: color 0.2s ease;">
+    🌐 Узнать обо мне
+  </a>
   
 </div>
 

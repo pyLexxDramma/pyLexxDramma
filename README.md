@@ -10,17 +10,23 @@
 
 <div align="center">
   
-  <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none; display: inline-block; margin: 8px;">
-    <div style="padding: 16px 32px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 17px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 6px 20px rgba(102, 126, 234, 0.7); border: 3px solid rgba(255, 255, 255, 0.5);">
-      🌐✨ ПОРТФОЛИО ✨🌐
-    </div>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/LexxDramma" style="text-decoration: none; display: inline-block; margin: 8px;">
-    <div style="padding: 16px 32px; background: linear-gradient(135deg, #0088cc 0%, #0066aa 100%); border-radius: 10px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 17px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 6px 20px rgba(0, 136, 204, 0.7); border: 3px solid rgba(255, 255, 255, 0.5);">
-      💬✨ TELEGRAM ✨💬
-    </div>
-  </a>
+  <div style="margin-bottom: 20px;">
+    <p style="font-size: 14px; color: #8b949e; margin-bottom: 12px;">💬 <strong>Для связи:</strong></p>
+    <a href="https://t.me/LexxDramma" style="text-decoration: none; display: inline-block; margin: 8px;">
+      <div style="padding: 16px 32px; background: linear-gradient(135deg, #0088cc 0%, #0066aa 100%); border-radius: 10px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 17px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 6px 20px rgba(0, 136, 204, 0.7); border: 3px solid rgba(255, 255, 255, 0.5);">
+        💬✨ TELEGRAM ✨💬
+      </div>
+    </a>
+  </div>
+  
+  <div>
+    <p style="font-size: 14px; color: #8b949e; margin-bottom: 12px;">🌐 <strong>Чтобы подробнее узнать обо мне:</strong></p>
+    <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none; display: inline-block; margin: 8px;">
+      <div style="padding: 16px 32px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 17px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 6px 20px rgba(102, 126, 234, 0.7); border: 3px solid rgba(255, 255, 255, 0.5);">
+        🌐✨ ПОРТФОЛИО ✨🌐
+      </div>
+    </a>
+  </div>
   
 </div>
 

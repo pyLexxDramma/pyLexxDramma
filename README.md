@@ -8,21 +8,50 @@
 
 ### 🌐 Связь и контакты
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 180px; flex-wrap: wrap; margin: 40px 0;">
-  
-  <a href="https://t.me/LexxDramma" style="text-decoration: none !important; display: inline-block;">
-    <button style="padding: 10px 24px; background: #21262d; border-radius: 6px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500; color: #ffffff; text-align: center; border: 1px solid #30363d; cursor: pointer; min-width: 180px;">
-      Telegram
-    </button>
-  </a>
-  
-  <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none !important; display: inline-block;">
-    <button style="padding: 10px 24px; background: #21262d; border-radius: 6px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500; color: #ffffff; text-align: center; border: 1px solid #30363d; cursor: pointer; min-width: 180px;">
-      Portfolio
-    </button>
-  </a>
-  
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buttons</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #21262d;
+        }
+
+        .button-container {
+            display: flex;
+            gap: 180px;
+        }
+
+        .button {
+            padding: 10px 24px;
+            background: #21262d;
+            border-radius: 6px;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+            font-size: 14px;
+            font-weight: 500;
+            color: #ffffff;
+            text-align: center;
+            border: 1px solid #30363d;
+            cursor: pointer;
+            min-width: 180px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="button-container">
+        <a href="https://t.me/LexxDramma" class="button">Telegram</a>
+        <a href="https://pylexxdramma.github.io/portfolio/" class="button">Portfolio</a>
+    </div>
+</body>
+</html>
 
 ---
 

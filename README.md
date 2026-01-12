@@ -8,16 +8,16 @@
 
 ### 🌐 Связь и контакты
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap; margin: 30px 0;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 200px; flex-wrap: wrap; margin: 40px 0;">
   
   <a href="https://t.me/LexxDramma" style="text-decoration: none !important; display: inline-block; border: none; outline: none;">
-    <button style="padding: 18px 45px; background: linear-gradient(135deg, #0088cc 0%, #0066aa 100%); border-radius: 25px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 600; color: #ffffff; text-align: center; box-shadow: 0 10px 30px rgba(0, 136, 204, 0.8), inset 0 1px 0 rgba(255, 255, 255, 0.3); border: 4px solid #00D4FF; cursor: pointer; min-width: 200px; transition: transform 0.2s ease, box-shadow 0.2s ease;">
+    <button style="padding: 12px 32px; background: #0088cc; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 500; color: #ffffff; text-align: center; border: 1px solid rgba(255, 255, 255, 0.2); cursor: pointer; min-width: 180px; transition: background-color 0.2s ease;">
       Telegram
     </button>
   </a>
   
   <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none !important; display: inline-block; border: none; outline: none;">
-    <button style="padding: 18px 45px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 600; color: #ffffff; text-align: center; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.8), inset 0 1px 0 rgba(255, 255, 255, 0.3); border: 4px solid #A78BFA; cursor: pointer; min-width: 200px; transition: transform 0.2s ease, box-shadow 0.2s ease;">
+    <button style="padding: 12px 32px; background: #667eea; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 500; color: #ffffff; text-align: center; border: 1px solid rgba(255, 255, 255, 0.2); cursor: pointer; min-width: 180px; transition: background-color 0.2s ease;">
       Portfolio
     </button>
   </a>

@@ -2,6 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=pyLexxDramma&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 # Алексей Темников - Fullstack Python Developer 🎯
 
 **Fullstack Python Developer** | Python, Django, FastAPI, React, PostgreSQL | Веб-разработка, Backend, Frontend, DevOps | Опыт разработки production-ready приложений

@@ -141,3 +141,7 @@
 **Создаю эффективный и надежный код, используя лучшие практики и современные инструменты разработки**
 
 ---
+
+### 📊 Статистика языков программирования
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyLexxDramma&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

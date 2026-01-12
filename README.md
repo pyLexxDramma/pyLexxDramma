@@ -10,26 +10,19 @@
 
 <div align="center">
   
-  <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none;">
-    <div style="display: inline-block; padding: 12px 24px; margin: 8px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 16px; font-weight: bold; color: white; text-align: center; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); animation: blink 2s infinite;">
+  <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none; display: inline-block; margin: 8px;">
+    <div style="padding: 14px 28px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 6px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 15px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.5); border: 2px solid rgba(255, 255, 255, 0.2); transition: all 0.3s ease;">
       🌐 ПОРТФОЛИО
     </div>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/LexxDramma" style="text-decoration: none;">
-    <div style="display: inline-block; padding: 12px 24px; margin: 8px; background: linear-gradient(135deg, #0088cc 0%, #0066aa 100%); border-radius: 8px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 16px; font-weight: bold; color: white; text-align: center; box-shadow: 0 4px 15px rgba(0, 136, 204, 0.4); animation: blink 2s infinite;">
+  <a href="https://t.me/LexxDramma" style="text-decoration: none; display: inline-block; margin: 8px;">
+    <div style="padding: 14px 28px; background: linear-gradient(135deg, #0088cc 0%, #0066aa 100%); border-radius: 6px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 15px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 4px 12px rgba(0, 136, 204, 0.5); border: 2px solid rgba(255, 255, 255, 0.2); transition: all 0.3s ease;">
       💬 TELEGRAM
     </div>
   </a>
   
 </div>
-
-<style>
-  @keyframes blink {
-    0%, 100% { opacity: 1; transform: scale(1); }
-    50% { opacity: 0.7; transform: scale(0.98); }
-  }
-</style>
 
 ---
 

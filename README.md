@@ -10,23 +10,26 @@
 
 <div align="center">
   
-  <div style="margin-bottom: 20px;">
-    <p style="font-size: 14px; color: #8b949e; margin-bottom: 12px;">💬 <strong>Для связи:</strong></p>
-    <a href="https://t.me/LexxDramma" style="text-decoration: none; display: inline-block; margin: 8px;">
-      <div style="padding: 14px 28px; background: linear-gradient(135deg, #0088cc 0%, #0066aa 100%); border-radius: 8px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 16px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 4px 15px rgba(0, 136, 204, 0.6); border: 2px solid rgba(255, 255, 255, 0.4);">
-        💬 TELEGRAM
-      </div>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:lexxdramma@vk.com" style="text-decoration: none; display: inline-block; margin: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Email" width="50" height="50" />
-    </a>
+  <div style="margin-bottom: 30px;">
+    <p style="font-size: 16px; color: #8b949e; margin-bottom: 20px;">💬 <strong>Для связи:</strong></p>
+    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+      <a href="https://t.me/LexxDramma" style="text-decoration: none; display: inline-block;">
+        <div style="padding: 20px 40px; background: linear-gradient(135deg, #0088cc 0%, #0066aa 100%); border-radius: 12px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 20px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 8px 25px rgba(0, 136, 204, 0.7); border: 3px solid rgba(255, 255, 255, 0.5); transition: all 0.3s ease; cursor: pointer; min-width: 200px;">
+          💬 TELEGRAM
+        </div>
+      </a>
+      <a href="mailto:lexxdramma@vk.com" style="text-decoration: none; display: inline-block;">
+        <div style="padding: 20px 40px; background: linear-gradient(135deg, #EA4335 0%, #C5221F 100%); border-radius: 12px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 20px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 8px 25px rgba(234, 67, 53, 0.7); border: 3px solid rgba(255, 255, 255, 0.5); transition: all 0.3s ease; cursor: pointer; min-width: 200px;">
+          📧 EMAIL
+        </div>
+      </a>
+    </div>
   </div>
   
   <div>
-    <p style="font-size: 14px; color: #8b949e; margin-bottom: 12px;">🌐 <strong>Чтобы подробнее узнать обо мне:</strong></p>
-    <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none; display: inline-block; margin: 8px;">
-      <div style="padding: 14px 28px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 16px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.6); border: 2px solid rgba(255, 255, 255, 0.4);">
+    <p style="font-size: 16px; color: #8b949e; margin-bottom: 20px;">🌐 <strong>Чтобы подробнее узнать обо мне:</strong></p>
+    <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none; display: inline-block;">
+      <div style="padding: 20px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 20px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.7); border: 3px solid rgba(255, 255, 255, 0.5); transition: all 0.3s ease; cursor: pointer; min-width: 200px;">
         🌐 ПОРТФОЛИО
       </div>
     </a>

@@ -11,14 +11,24 @@
 <div align="center">
   
   <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none; display: inline-block; margin: 8px;">
-    <div style="padding: 14px 28px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 6px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 15px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.5); border: 2px solid rgba(255, 255, 255, 0.2); transition: all 0.3s ease;">
-      🌐 ПОРТФОЛИО
+    <div style="position: relative; padding: 14px 28px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 6px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 15px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.5); border: 2px solid rgba(255, 255, 255, 0.3);">
+      <svg width="100%" height="100%" style="position: absolute; top: 0; left: 0; border-radius: 6px; pointer-events: none;">
+        <rect width="100%" height="100%" fill="rgba(255, 255, 255, 0.1)" rx="6">
+          <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite"/>
+        </rect>
+      </svg>
+      <span style="position: relative; z-index: 1;">🌐 ПОРТФОЛИО</span>
     </div>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/LexxDramma" style="text-decoration: none; display: inline-block; margin: 8px;">
-    <div style="padding: 14px 28px; background: linear-gradient(135deg, #0088cc 0%, #0066aa 100%); border-radius: 6px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 15px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 4px 12px rgba(0, 136, 204, 0.5); border: 2px solid rgba(255, 255, 255, 0.2); transition: all 0.3s ease;">
-      💬 TELEGRAM
+    <div style="position: relative; padding: 14px 28px; background: linear-gradient(135deg, #0088cc 0%, #0066aa 100%); border-radius: 6px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 15px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 4px 12px rgba(0, 136, 204, 0.5); border: 2px solid rgba(255, 255, 255, 0.3);">
+      <svg width="100%" height="100%" style="position: absolute; top: 0; left: 0; border-radius: 6px; pointer-events: none;">
+        <rect width="100%" height="100%" fill="rgba(255, 255, 255, 0.1)" rx="6">
+          <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite"/>
+        </rect>
+      </svg>
+      <span style="position: relative; z-index: 1;">💬 TELEGRAM</span>
     </div>
   </a>
   

@@ -3,7 +3,7 @@
 **Fullstack Python Developer** | Python, Django, FastAPI, React, PostgreSQL | Веб-разработка, Backend, Frontend, DevOps | Опыт разработки production-ready приложений
 
 📍 Россия | 💼 Открыт к предложениям | 📧 lexxdramma@vk.com  
-🌐 Портфолио | 💬 Telegram
+🌐 [Портфолио](https://pylexxdramma.github.io/portfolio/) | 💬 [Telegram](https://t.me/LexxDramma)
 
 ---
 
@@ -69,9 +69,9 @@
 
 **Готов к сотрудничеству и новым проектам!**
 
-* 🌐 **Портфолио:** pylexxdramma.github.io/portfolio
-* 💻 **GitHub:** @pyLexxDramma
-* 💬 **Telegram:** @LexxDramma
+* 🌐 **Портфолио:** [pylexxdramma.github.io/portfolio](https://pylexxdramma.github.io/portfolio/)
+* 💻 **GitHub:** [@pyLexxDramma](https://github.com/pyLexxDramma)
+* 💬 **Telegram:** [@LexxDramma](https://t.me/LexxDramma)
 * 📧 **Email:** lexxdramma@vk.com
 
 ---

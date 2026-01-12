@@ -11,14 +11,14 @@
 <div align="center">
   
   <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none; display: inline-block; margin: 8px;">
-    <div style="padding: 14px 28px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 16px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.6); border: 2px solid rgba(255, 255, 255, 0.4);">
-      🌐 ⚡ ПОРТФОЛИО ⚡
+    <div style="padding: 16px 32px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 17px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 6px 20px rgba(102, 126, 234, 0.7); border: 3px solid rgba(255, 255, 255, 0.5);">
+      🌐✨ ПОРТФОЛИО ✨🌐
     </div>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/LexxDramma" style="text-decoration: none; display: inline-block; margin: 8px;">
-    <div style="padding: 14px 28px; background: linear-gradient(135deg, #0088cc 0%, #0066aa 100%); border-radius: 8px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 16px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 4px 15px rgba(0, 136, 204, 0.6); border: 2px solid rgba(255, 255, 255, 0.4);">
-      💬 ⚡ TELEGRAM ⚡
+    <div style="padding: 16px 32px; background: linear-gradient(135deg, #0088cc 0%, #0066aa 100%); border-radius: 10px; font-family: 'Courier New', 'Monaco', 'Consolas', monospace; font-size: 17px; font-weight: bold; color: #ffffff; text-align: center; box-shadow: 0 6px 20px rgba(0, 136, 204, 0.7); border: 3px solid rgba(255, 255, 255, 0.5);">
+      💬✨ TELEGRAM ✨💬
     </div>
   </a>
   

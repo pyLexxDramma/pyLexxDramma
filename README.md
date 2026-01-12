@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=pyLexxDramma&style=flat-square&color=blue" alt=""/>
+</div>
+
 # Алексей Темников - Fullstack Python Developer 🎯
 
 **Fullstack Python Developer** | Python, Django, FastAPI, React, PostgreSQL | Веб-разработка, Backend, Frontend, DevOps | Опыт разработки production-ready приложений

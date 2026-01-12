@@ -8,20 +8,13 @@
 
 ### 🌐 Связь и контакты
 
-<div align="center" style="margin: 40px 0;">
-  
-  <div style="margin-bottom: 30px;">
-    <a href="https://pylexxdramma.github.io/portfolio/" style="text-decoration: none !important; color: #58a6ff; font-size: 24px; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;">
-      Моё портфолио
-    </a>
-  </div>
-  
-  <div>
-    <a href="https://t.me/LexxDramma" style="text-decoration: none !important; color: #58a6ff; font-size: 24px; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;">
-      Написать мне
-    </a>
-  </div>
-  
+<div id="badges" align="center">
+  <a href="https://pylexxdramma.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Портфолио-purple?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://t.me/LexxDramma">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
 
 ---

@@ -8,7 +8,7 @@
 
 # Алексей Темников - Fullstack Python Developer 🎯
 
-**Fullstack Python Developer** Fullstack Python Developer | Python, Django, FastAPI, Flask, React, TypeScript, Vue.js | PostgreSQL, MongoDB, Redis | Docker, CI/CD, AWS | REST API, GraphQL, Web Scraping, Testing | Опыт разработки production-ready приложений
+**Fullstack Python Developer** | Python, Django, FastAPI, Flask, React, TypeScript, Vue.js | PostgreSQL, MongoDB, Redis | Docker, CI/CD, AWS | REST API, GraphQL, Web Scraping, Testing | Опыт разработки production-ready приложений
 
 📍 **Россия** | 💼 **Открыт к предложениям** | 📧 **lexxdramma@vk.com**
 
